@@ -1,0 +1,844 @@
+#
+# Results on Wed, 13 May 2026 07:40:17 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1778657839313,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1778657843135,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,2,0,demographics,NULL,PennController,2,_Trial_,Start,1778657843138,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,2,0,demographics,NULL,Selector,language,Selection,lang2,1778657853950,lang1;lang2;lang3;lang4;lang5;lang6
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,2,0,demographics,NULL,PennController,2,_Trial_,End,1778657855352,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1778657855353,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1778657867634,NULL
+# 13. filename.
+# 14. step.
+# 15. Comments.
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1778657867636,stim5.wav,5,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,7,0,experiment,NULL,Audio,stimulus,buffer,0,1778657872574,stim5.wav,5,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,7,0,experiment,NULL,Audio,stimulus,buffer,0,1778657875675,stim5.wav,5,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,7,0,experiment,NULL,Audio,stimulus,buffer,0,1778657878308,stim5.wav,5,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,7,0,experiment,NULL,Audio,stimulus,buffer,0,1778657881308,stim5.wav,5,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,7,0,experiment,NULL,Audio,stimulus,buffer,0,1778657884458,stim5.wav,5,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,7,0,experiment,NULL,Selector,choice,Selection,APA,1778657886799,stim5.wav,5,ABA;APA
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1778657886801,stim5.wav,5,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1778657886802,stim4.wav,4,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,6,0,experiment,NULL,Audio,stimulus,buffer,0,1778657890907,stim4.wav,4,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,6,0,experiment,NULL,Selector,choice,Selection,APA,1778657893533,stim4.wav,4,ABA;APA
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1778657893535,stim4.wav,4,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1778657893536,stim1.wav,1,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,3,0,experiment,NULL,Selector,choice,Selection,APA,1778657895633,stim1.wav,1,ABA;APA
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1778657895635,stim1.wav,1,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1778657895636,stim6.wav,6,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,8,0,experiment,NULL,Audio,stimulus,buffer,0,1778657899974,stim6.wav,6,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,8,0,experiment,NULL,Audio,stimulus,buffer,0,1778657903774,stim6.wav,6,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,8,0,experiment,NULL,Audio,stimulus,buffer,0,1778657909457,stim6.wav,6,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,8,0,experiment,NULL,Selector,choice,Selection,APA,1778657911316,stim6.wav,6,ABA;APA
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1778657911318,stim6.wav,6,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1778657911319,stim7.wav,7,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,9,0,experiment,NULL,Audio,stimulus,buffer,0,1778657918374,stim7.wav,7,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,9,0,experiment,NULL,Audio,stimulus,buffer,0,1778657921058,stim7.wav,7,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,9,0,experiment,NULL,Selector,choice,Selection,APA,1778657924116,stim7.wav,7,ABA;APA
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1778657924118,stim7.wav,7,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1778657924120,stim3.wav,3,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,5,0,experiment,NULL,Audio,stimulus,buffer,0,1778657926892,stim3.wav,3,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,5,0,experiment,NULL,Audio,stimulus,buffer,0,1778657935725,stim3.wav,3,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,5,0,experiment,NULL,Audio,stimulus,buffer,0,1778657940757,stim3.wav,3,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,5,0,experiment,NULL,Audio,stimulus,buffer,0,1778657943058,stim3.wav,3,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,5,0,experiment,NULL,Selector,choice,Selection,APA,1778657947516,stim3.wav,3,ABA;APA
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1778657947516,stim3.wav,3,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1778657947517,stim9.wav,9,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,11,0,experiment,NULL,Audio,stimulus,buffer,0,1778657950258,stim9.wav,9,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,11,0,experiment,NULL,Audio,stimulus,buffer,0,1778657957091,stim9.wav,9,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,11,0,experiment,NULL,Audio,stimulus,buffer,0,1778657959474,stim9.wav,9,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,11,0,experiment,NULL,Audio,stimulus,buffer,0,1778657961424,stim9.wav,9,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,11,0,experiment,NULL,Audio,stimulus,buffer,0,1778657966307,stim9.wav,9,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,11,0,experiment,NULL,Audio,stimulus,buffer,0,1778657968941,stim9.wav,9,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,11,0,experiment,NULL,Selector,choice,Selection,APA,1778657972650,stim9.wav,9,ABA;APA
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1778657972652,stim9.wav,9,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1778657972654,stim8.wav,8,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,10,0,experiment,NULL,Audio,stimulus,buffer,0,1778657975674,stim8.wav,8,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,10,0,experiment,NULL,Audio,stimulus,buffer,0,1778657998957,stim8.wav,8,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,10,0,experiment,NULL,Selector,choice,Selection,APA,1778658000749,stim8.wav,8,ABA;APA
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1778658000751,stim8.wav,8,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1778658000753,stim2.wav,2,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,4,0,experiment,NULL,Audio,stimulus,buffer,0,1778658004691,stim2.wav,2,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,4,0,experiment,NULL,Audio,stimulus,buffer,0,1778658006824,stim2.wav,2,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,4,0,experiment,NULL,Audio,stimulus,buffer,0,1778658013308,stim2.wav,2,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,4,0,experiment,NULL,Audio,stimulus,buffer,0,1778658015074,stim2.wav,2,NULL
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,4,0,experiment,NULL,Selector,choice,Selection,APA,1778658016816,stim2.wav,2,ABA;APA
+1778658017,753b05219dd5471a23adac8eebd06906,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1778658016818,stim2.wav,2,NULL
+#
+# Results on Wed, 13 May 2026 13:58:32 GMT
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.13.0
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1778680649673,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1778680651873,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,2,0,demographics,NULL,PennController,2,_Trial_,Start,1778680651877,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,2,0,demographics,NULL,Selector,language,Selection,lang2,1778680654072,lang1;lang2;lang3;lang4;lang5;lang6
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,2,0,demographics,NULL,PennController,2,_Trial_,End,1778680656348,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1778680656350,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1778680657699,NULL
+# 13. filename.
+# 14. step.
+# 15. Comments.
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1778680657701,stim2.wav,2,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,4,0,experiment,NULL,Selector,choice,Selection,APA,1778680660834,stim2.wav,2,ABA;APA
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1778680660837,stim2.wav,2,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1778680660840,stim7.wav,7,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,9,0,experiment,NULL,Selector,choice,Selection,APA,1778680663371,stim7.wav,7,ABA;APA
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1778680663373,stim7.wav,7,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1778680663376,stim4.wav,4,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,6,0,experiment,NULL,Selector,choice,Selection,APA,1778680665758,stim4.wav,4,ABA;APA
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1778680665760,stim4.wav,4,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1778680665762,stim6.wav,6,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,8,0,experiment,NULL,Selector,choice,Selection,APA,1778680668212,stim6.wav,6,ABA;APA
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1778680668215,stim6.wav,6,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1778680668217,stim3.wav,3,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,5,0,experiment,NULL,Selector,choice,Selection,APA,1778680673381,stim3.wav,3,ABA;APA
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1778680673384,stim3.wav,3,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1778680673386,stim8.wav,8,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,10,0,experiment,NULL,Selector,choice,Selection,APA,1778680676355,stim8.wav,8,ABA;APA
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1778680676357,stim8.wav,8,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1778680676359,stim1.wav,1,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,3,0,experiment,NULL,Selector,choice,Selection,APA,1778680683081,stim1.wav,1,ABA;APA
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1778680683083,stim1.wav,1,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1778680683085,stim5.wav,5,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,7,0,experiment,NULL,Selector,choice,Selection,APA,1778680685452,stim5.wav,5,ABA;APA
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1778680685454,stim5.wav,5,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1778680685456,stim9.wav,9,NULL
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,11,0,experiment,NULL,Selector,choice,Selection,APA,1778680712142,stim9.wav,9,ABA;APA
+1778680712,ae7921b21bd7ab4fdbcd8cb879e1cb52,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1778680712144,stim9.wav,9,NULL
+#
+# Results on Wed, 13 May 2026 15:21:15 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1778685655635,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1778685656452,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,2,0,demographics,NULL,PennController,2,_Trial_,Start,1778685656453,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,2,0,demographics,NULL,Selector,language,Selection,lang2,1778685657653,lang1;lang2;lang3;lang4;lang5;lang6
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,2,0,demographics,NULL,PennController,2,_Trial_,End,1778685658606,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1778685658607,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1778685659629,NULL
+# 13. filename.
+# 14. step.
+# 15. Comments.
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1778685659630,stim6.wav,6,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,8,0,experiment,NULL,Selector,choice,Selection,APA,1778685661756,stim6.wav,6,ABA;APA
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1778685661759,stim6.wav,6,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1778685661760,stim9.wav,9,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,11,0,experiment,NULL,Selector,choice,Selection,APA,1778685663564,stim9.wav,9,ABA;APA
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1778685663566,stim9.wav,9,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1778685663567,stim8.wav,8,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,10,0,experiment,NULL,Selector,choice,Selection,APA,1778685665356,stim8.wav,8,ABA;APA
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1778685665357,stim8.wav,8,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1778685665358,stim5.wav,5,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,7,0,experiment,NULL,Selector,choice,Selection,APA,1778685667012,stim5.wav,5,ABA;APA
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1778685667013,stim5.wav,5,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1778685667014,stim2.wav,2,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,4,0,experiment,NULL,Selector,choice,Selection,APA,1778685668734,stim2.wav,2,ABA;APA
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1778685668737,stim2.wav,2,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1778685668738,stim1.wav,1,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,3,0,experiment,NULL,Selector,choice,Selection,APA,1778685670228,stim1.wav,1,ABA;APA
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1778685670229,stim1.wav,1,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1778685670230,stim3.wav,3,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,5,0,experiment,NULL,Selector,choice,Selection,APA,1778685671806,stim3.wav,3,ABA;APA
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1778685671807,stim3.wav,3,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1778685671807,stim4.wav,4,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,6,0,experiment,NULL,Selector,choice,Selection,APA,1778685673460,stim4.wav,4,ABA;APA
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1778685673461,stim4.wav,4,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1778685673461,stim7.wav,7,NULL
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,9,0,experiment,NULL,Selector,choice,Selection,APA,1778685675123,stim7.wav,7,ABA;APA
+1778685675,d07bb1e789775d8025cbebe2bf3172eb,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1778685675124,stim7.wav,7,NULL
+#
+# Results on Thu, 14 May 2026 06:37:12 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1778740632,96e41981149c4223c516eb75f30183db,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1778740563048,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1778740574213,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,2,0,demographics,NULL,PennController,2,_Trial_,Start,1778740574215,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,2,0,demographics,NULL,Selector,language,Selection,lang2,1778740578099,lang1;lang2;lang3;lang4;lang5;lang6
+1778740632,96e41981149c4223c516eb75f30183db,PennController,2,0,demographics,NULL,PennController,2,_Trial_,End,1778740580498,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1778740580499,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1778740586761,NULL
+# 13. filename.
+# 14. step.
+# 15. Comments.
+1778740632,96e41981149c4223c516eb75f30183db,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1778740586762,stim9.wav,9,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,11,0,experiment,NULL,Audio,stimulus,buffer,0,1778740596106,stim9.wav,9,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,11,0,experiment,NULL,Audio,stimulus,buffer,0,1778740604930,stim9.wav,9,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,11,0,experiment,NULL,Selector,choice,Selection,APA,1778740608223,stim9.wav,9,ABA;APA
+1778740632,96e41981149c4223c516eb75f30183db,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1778740608224,stim9.wav,9,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1778740608226,stim7.wav,7,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,9,0,experiment,NULL,Selector,choice,Selection,APA,1778740612196,stim7.wav,7,ABA;APA
+1778740632,96e41981149c4223c516eb75f30183db,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1778740612197,stim7.wav,7,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1778740612198,stim6.wav,6,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,8,0,experiment,NULL,Selector,choice,Selection,APA,1778740615208,stim6.wav,6,ABA;APA
+1778740632,96e41981149c4223c516eb75f30183db,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1778740615209,stim6.wav,6,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1778740615210,stim8.wav,8,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,10,0,experiment,NULL,Selector,choice,Selection,APA,1778740617657,stim8.wav,8,ABA;APA
+1778740632,96e41981149c4223c516eb75f30183db,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1778740617658,stim8.wav,8,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1778740617659,stim4.wav,4,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,6,0,experiment,NULL,Selector,choice,Selection,APA,1778740620422,stim4.wav,4,ABA;APA
+1778740632,96e41981149c4223c516eb75f30183db,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1778740620423,stim4.wav,4,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1778740620425,stim1.wav,1,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,3,0,experiment,NULL,Selector,choice,Selection,APA,1778740622145,stim1.wav,1,ABA;APA
+1778740632,96e41981149c4223c516eb75f30183db,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1778740622146,stim1.wav,1,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1778740622147,stim2.wav,2,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,4,0,experiment,NULL,Selector,choice,Selection,APA,1778740628881,stim2.wav,2,ABA;APA
+1778740632,96e41981149c4223c516eb75f30183db,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1778740628882,stim2.wav,2,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1778740628883,stim3.wav,3,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,5,0,experiment,NULL,Selector,choice,Selection,APA,1778740631201,stim3.wav,3,ABA;APA
+1778740632,96e41981149c4223c516eb75f30183db,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1778740631203,stim3.wav,3,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1778740631204,stim5.wav,5,NULL
+1778740632,96e41981149c4223c516eb75f30183db,PennController,7,0,experiment,NULL,Selector,choice,Selection,APA,1778740633361,stim5.wav,5,ABA;APA
+1778740632,96e41981149c4223c516eb75f30183db,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1778740633362,stim5.wav,5,NULL
+#
+# Results on Thu, 14 May 2026 07:08:37 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1778742426030,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1778742427501,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,2,0,demographics,NULL,PennController,2,_Trial_,Start,1778742427502,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,2,0,demographics,NULL,Selector,language,Selection,lang2,1778742432066,lang1;lang2;lang3;lang4;lang5;lang6
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,2,0,demographics,NULL,PennController,2,_Trial_,End,1778742433818,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1778742433819,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1778742458301,NULL
+# 13. filename.
+# 14. step.
+# 15. Comments.
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1778742458303,stim8.wav,8,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,10,0,experiment,NULL,Audio,stimulus,buffer,0,1778742463221,stim8.wav,8,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,10,0,experiment,NULL,Audio,stimulus,buffer,0,1778742466422,stim8.wav,8,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,10,0,experiment,NULL,Audio,stimulus,buffer,0,1778742469321,stim8.wav,8,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,10,0,experiment,NULL,Audio,stimulus,buffer,0,1778742471288,stim8.wav,8,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,10,0,experiment,NULL,Selector,choice,Selection,APA,1778742473401,stim8.wav,8,ABA;APA
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1778742473402,stim8.wav,8,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1778742473403,stim2.wav,2,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,4,0,experiment,NULL,Audio,stimulus,buffer,0,1778742475921,stim2.wav,2,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,4,0,experiment,NULL,Audio,stimulus,buffer,0,1778742477688,stim2.wav,2,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,4,0,experiment,NULL,Audio,stimulus,buffer,0,1778742479688,stim2.wav,2,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,4,0,experiment,NULL,Selector,choice,Selection,APA,1778742481484,stim2.wav,2,ABA;APA
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1778742481486,stim2.wav,2,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1778742481487,stim3.wav,3,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,5,0,experiment,NULL,Audio,stimulus,buffer,0,1778742484754,stim3.wav,3,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,5,0,experiment,NULL,Audio,stimulus,buffer,0,1778742486288,stim3.wav,3,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,5,0,experiment,NULL,Audio,stimulus,buffer,0,1778742487755,stim3.wav,3,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,5,0,experiment,NULL,Selector,choice,Selection,APA,1778742489685,stim3.wav,3,ABA;APA
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1778742489686,stim3.wav,3,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1778742489687,stim1.wav,1,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,3,0,experiment,NULL,Audio,stimulus,buffer,0,1778742491988,stim1.wav,1,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,3,0,experiment,NULL,Audio,stimulus,buffer,0,1778742494555,stim1.wav,1,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,3,0,experiment,NULL,Selector,choice,Selection,APA,1778742495785,stim1.wav,1,ABA;APA
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1778742495786,stim1.wav,1,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1778742495787,stim5.wav,5,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,7,0,experiment,NULL,Audio,stimulus,buffer,0,1778742497855,stim5.wav,5,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,7,0,experiment,NULL,Audio,stimulus,buffer,0,1778742499555,stim5.wav,5,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,7,0,experiment,NULL,Audio,stimulus,buffer,0,1778742502156,stim5.wav,5,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,7,0,experiment,NULL,Selector,choice,Selection,APA,1778742503202,stim5.wav,5,ABA;APA
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1778742503203,stim5.wav,5,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1778742503204,stim4.wav,4,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,6,0,experiment,NULL,Audio,stimulus,buffer,0,1778742505456,stim4.wav,4,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,6,0,experiment,NULL,Selector,choice,Selection,APA,1778742506568,stim4.wav,4,ABA;APA
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1778742506569,stim4.wav,4,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1778742506569,stim6.wav,6,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,8,0,experiment,NULL,Audio,stimulus,buffer,0,1778742509189,stim6.wav,6,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,8,0,experiment,NULL,Selector,choice,Selection,APA,1778742510184,stim6.wav,6,ABA;APA
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1778742510185,stim6.wav,6,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1778742510186,stim9.wav,9,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,11,0,experiment,NULL,Audio,stimulus,buffer,0,1778742512656,stim9.wav,9,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,11,0,experiment,NULL,Selector,choice,Selection,APA,1778742514385,stim9.wav,9,ABA;APA
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1778742514386,stim9.wav,9,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1778742514387,stim7.wav,7,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,9,0,experiment,NULL,Audio,stimulus,buffer,0,1778742516289,stim7.wav,7,NULL
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,9,0,experiment,NULL,Selector,choice,Selection,APA,1778742517585,stim7.wav,7,ABA;APA
+1778742517,e01836b65adef7cced0c7fccd2bd9b5f,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1778742517586,stim7.wav,7,NULL
+#
+# Results on Sat, 16 May 2026 04:07:17 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15
+# Design number was non-random = 5
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1778904385575,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1778904388695,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,2,0,demographics,NULL,PennController,2,_Trial_,Start,1778904388697,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,2,0,demographics,NULL,Selector,language,Selection,lang3,1778904390642,lang1;lang2;lang3;lang4;lang5;lang6
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,2,0,demographics,NULL,PennController,2,_Trial_,End,1778904391791,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1778904391792,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1778904397595,NULL
+# 13. filename.
+# 14. step.
+# 15. Comments.
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1778904397597,stim7.wav,7,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,9,0,experiment,NULL,Selector,choice,Selection,APA,1778904411742,stim7.wav,7,ABA;APA
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1778904411748,stim7.wav,7,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1778904411750,stim5.wav,5,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,7,0,experiment,NULL,Selector,choice,Selection,APA,1778904417190,stim5.wav,5,ABA;APA
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1778904417192,stim5.wav,5,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1778904417194,stim9.wav,9,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,11,0,experiment,NULL,Selector,choice,Selection,APA,1778904422789,stim9.wav,9,ABA;APA
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1778904422791,stim9.wav,9,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1778904422792,stim2.wav,2,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,4,0,experiment,NULL,Selector,choice,Selection,ABA,1778904426922,stim2.wav,2,ABA;APA
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1778904426924,stim2.wav,2,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1778904426927,stim1.wav,1,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,3,0,experiment,NULL,Selector,choice,Selection,ABA,1778904429173,stim1.wav,1,ABA;APA
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1778904429175,stim1.wav,1,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1778904429176,stim8.wav,8,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,10,0,experiment,NULL,Selector,choice,Selection,APA,1778904431271,stim8.wav,8,ABA;APA
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1778904431272,stim8.wav,8,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1778904431272,stim6.wav,6,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,8,0,experiment,NULL,Selector,choice,Selection,APA,1778904433305,stim6.wav,6,ABA;APA
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1778904433307,stim6.wav,6,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1778904433308,stim4.wav,4,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,6,0,experiment,NULL,Selector,choice,Selection,APA,1778904435289,stim4.wav,4,ABA;APA
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1778904435290,stim4.wav,4,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1778904435292,stim3.wav,3,NULL
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,5,0,experiment,NULL,Selector,choice,Selection,APA,1778904437223,stim3.wav,3,ABA;APA
+1778904437,3ef9e517d61c1397c04bde2192015832,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1778904437224,stim3.wav,3,NULL
+#
+# Results on Mon, 18 May 2026 03:50:36 GMT
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Mobile/15E148 Safari/604.1
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1779076194076,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1779076195422,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,2,0,demographics,NULL,PennController,2,_Trial_,Start,1779076195425,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,2,0,demographics,NULL,Selector,language,Selection,lang2,1779076196539,lang1;lang2;lang3;lang4;lang5;lang6
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,2,0,demographics,NULL,PennController,2,_Trial_,End,1779076197539,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1779076197541,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1779076198605,NULL
+# 13. filename.
+# 14. step.
+# 15. Comments.
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1779076198608,stim4.wav,4,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,6,0,experiment,NULL,Selector,choice,Selection,APA,1779076207974,stim4.wav,4,ABA;APA
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1779076207977,stim4.wav,4,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1779076207979,stim3.wav,3,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,5,0,experiment,NULL,Selector,choice,Selection,APA,1779076213650,stim3.wav,3,ABA;APA
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1779076213652,stim3.wav,3,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1779076213654,stim6.wav,6,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,8,0,experiment,NULL,Selector,choice,Selection,APA,1779076216242,stim6.wav,6,ABA;APA
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1779076216245,stim6.wav,6,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1779076216247,stim7.wav,7,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,9,0,experiment,NULL,Selector,choice,Selection,APA,1779076218793,stim7.wav,7,ABA;APA
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1779076218795,stim7.wav,7,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1779076218796,stim1.wav,1,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,3,0,experiment,NULL,Selector,choice,Selection,APA,1779076224311,stim1.wav,1,ABA;APA
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1779076224313,stim1.wav,1,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1779076224314,stim9.wav,9,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,11,0,experiment,NULL,Selector,choice,Selection,APA,1779076226728,stim9.wav,9,ABA;APA
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1779076226730,stim9.wav,9,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1779076226732,stim5.wav,5,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,7,0,experiment,NULL,Selector,choice,Selection,APA,1779076229495,stim5.wav,5,ABA;APA
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1779076229497,stim5.wav,5,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1779076229499,stim2.wav,2,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,4,0,experiment,NULL,Selector,choice,Selection,APA,1779076231929,stim2.wav,2,ABA;APA
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1779076231931,stim2.wav,2,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1779076231933,stim8.wav,8,NULL
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,10,0,experiment,NULL,Selector,choice,Selection,APA,1779076234313,stim8.wav,8,ABA;APA
+1779076236,d2cf77d70100a3488a96231193d2b100,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1779076234315,stim8.wav,8,NULL
+#
+# Results on Mon, 18 May 2026 12:24:06 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15
+# Design number was non-random = 7
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1779106926631,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1779106934687,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,2,0,demographics,NULL,PennController,2,_Trial_,Start,1779106934692,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,2,0,demographics,NULL,Selector,language,Selection,lang2,1779106939308,lang1;lang2;lang3;lang4;lang5;lang6
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,2,0,demographics,NULL,PennController,2,_Trial_,End,1779106940277,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1779106940279,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1779106947084,NULL
+# 13. filename.
+# 14. step.
+# 15. Comments.
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1779106947086,stim6.wav,6,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,8,0,experiment,NULL,Selector,choice,Selection,ABA,1779106961633,stim6.wav,6,ABA;APA
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1779106961637,stim6.wav,6,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1779106961638,stim2.wav,2,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,4,0,experiment,NULL,Selector,choice,Selection,APA,1779106970776,stim2.wav,2,ABA;APA
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1779106970778,stim2.wav,2,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1779106970780,stim3.wav,3,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,5,0,experiment,NULL,Selector,choice,Selection,APA,1779106975340,stim3.wav,3,ABA;APA
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1779106975341,stim3.wav,3,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1779106975343,stim4.wav,4,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,6,0,experiment,NULL,Selector,choice,Selection,ABA,1779106979707,stim4.wav,4,ABA;APA
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1779106979708,stim4.wav,4,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1779106979708,stim8.wav,8,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,10,0,experiment,NULL,Selector,choice,Selection,APA,1779106982196,stim8.wav,8,ABA;APA
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1779106982197,stim8.wav,8,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1779106982197,stim1.wav,1,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,3,0,experiment,NULL,Selector,choice,Selection,ABA,1779106986826,stim1.wav,1,ABA;APA
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1779106986827,stim1.wav,1,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1779106986828,stim5.wav,5,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,7,0,experiment,NULL,Selector,choice,Selection,APA,1779106991077,stim5.wav,5,ABA;APA
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1779106991078,stim5.wav,5,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1779106991079,stim9.wav,9,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,11,0,experiment,NULL,Selector,choice,Selection,APA,1779107023824,stim9.wav,9,ABA;APA
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1779107023825,stim9.wav,9,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1779107023828,stim7.wav,7,NULL
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,9,0,experiment,NULL,Selector,choice,Selection,APA,1779107046249,stim7.wav,7,ABA;APA
+1779107046,8467e6dac93fc0c7c844fed7cd2cb4b8,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1779107046250,stim7.wav,7,NULL
+#
+# Results on Mon, 18 May 2026 12:53:47 GMT
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1
+# Design number was non-random = 8
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1779108760578,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1779108774040,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,2,0,demographics,NULL,PennController,2,_Trial_,Start,1779108774044,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,2,0,demographics,NULL,Selector,language,Selection,lang2,1779108779527,lang1;lang2;lang3;lang4;lang5;lang6
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,2,0,demographics,NULL,PennController,2,_Trial_,End,1779108782519,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1779108782522,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1779108787607,NULL
+# 13. filename.
+# 14. step.
+# 15. Comments.
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1779108787611,stim2.wav,2,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,4,0,experiment,NULL,Selector,choice,Selection,APA,1779108796503,stim2.wav,2,ABA;APA
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1779108796507,stim2.wav,2,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1779108796511,stim7.wav,7,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,9,0,experiment,NULL,Selector,choice,Selection,APA,1779108802944,stim7.wav,7,ABA;APA
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1779108802948,stim7.wav,7,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1779108802952,stim8.wav,8,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,10,0,experiment,NULL,Selector,choice,Selection,APA,1779108812593,stim8.wav,8,ABA;APA
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1779108812595,stim8.wav,8,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1779108812598,stim3.wav,3,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,5,0,experiment,NULL,Selector,choice,Selection,APA,1779108814795,stim3.wav,3,ABA;APA
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1779108814797,stim3.wav,3,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1779108814801,stim6.wav,6,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,8,0,experiment,NULL,Selector,choice,Selection,APA,1779108817065,stim6.wav,6,ABA;APA
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1779108817068,stim6.wav,6,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1779108817070,stim5.wav,5,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,7,0,experiment,NULL,Selector,choice,Selection,APA,1779108819502,stim5.wav,5,ABA;APA
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1779108819505,stim5.wav,5,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1779108819507,stim9.wav,9,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,11,0,experiment,NULL,Selector,choice,Selection,ABA,1779108822040,stim9.wav,9,ABA;APA
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1779108822042,stim9.wav,9,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1779108822044,stim1.wav,1,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,3,0,experiment,NULL,Selector,choice,Selection,APA,1779108824343,stim1.wav,1,ABA;APA
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1779108824345,stim1.wav,1,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1779108824348,stim4.wav,4,NULL
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,6,0,experiment,NULL,Selector,choice,Selection,ABA,1779108826913,stim4.wav,4,ABA;APA
+1779108827,b6e8a79d25dac089fe9915e070178159,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1779108826915,stim4.wav,4,NULL
+#
+# Results on Mon, 18 May 2026 13:02:37 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0
+# Design number was non-random = 9
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1779109307639,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1779109316251,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,2,0,demographics,NULL,PennController,2,_Trial_,Start,1779109316253,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,2,0,demographics,NULL,Selector,language,Selection,lang2,1779109318258,lang1;lang2;lang3;lang4;lang5;lang6
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,2,0,demographics,NULL,PennController,2,_Trial_,End,1779109319228,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1779109319229,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1779109329102,NULL
+# 13. filename.
+# 14. step.
+# 15. Comments.
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1779109329103,stim9.wav,9,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,11,0,experiment,NULL,Selector,choice,Selection,ABA,1779109340972,stim9.wav,9,ABA;APA
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1779109340975,stim9.wav,9,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1779109340976,stim4.wav,4,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,6,0,experiment,NULL,Selector,choice,Selection,APA,1779109344037,stim4.wav,4,ABA;APA
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1779109344038,stim4.wav,4,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1779109344039,stim1.wav,1,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,3,0,experiment,NULL,Selector,choice,Selection,APA,1779109346241,stim1.wav,1,ABA;APA
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1779109346242,stim1.wav,1,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1779109346243,stim3.wav,3,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,5,0,experiment,NULL,Selector,choice,Selection,APA,1779109348834,stim3.wav,3,ABA;APA
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1779109348838,stim3.wav,3,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1779109348840,stim6.wav,6,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,8,0,experiment,NULL,Selector,choice,Selection,APA,1779109350984,stim6.wav,6,ABA;APA
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1779109350985,stim6.wav,6,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1779109350986,stim5.wav,5,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,7,0,experiment,NULL,Selector,choice,Selection,ABA,1779109352934,stim5.wav,5,ABA;APA
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1779109352936,stim5.wav,5,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1779109352937,stim2.wav,2,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,4,0,experiment,NULL,Selector,choice,Selection,APA,1779109355052,stim2.wav,2,ABA;APA
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1779109355055,stim2.wav,2,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1779109355056,stim8.wav,8,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,10,0,experiment,NULL,Selector,choice,Selection,APA,1779109356434,stim8.wav,8,ABA;APA
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1779109356437,stim8.wav,8,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1779109356437,stim7.wav,7,NULL
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,9,0,experiment,NULL,Selector,choice,Selection,APA,1779109357535,stim7.wav,7,ABA;APA
+1779109357,d51d3c8528a2d57b72545e070d207135,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1779109357537,stim7.wav,7,NULL
+#
+# Results on Mon, 18 May 2026 13:54:38 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15
+# Design number was non-random = 10
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1779112421474,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1779112434544,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,2,0,demographics,NULL,PennController,2,_Trial_,Start,1779112434550,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,2,0,demographics,NULL,Selector,language,Selection,lang1,1779112438140,lang1;lang2;lang3;lang4;lang5;lang6
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,2,0,demographics,NULL,PennController,2,_Trial_,End,1779112439362,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1779112439364,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1779112446460,NULL
+# 13. filename.
+# 14. step.
+# 15. Comments.
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1779112446463,stim9.wav,9,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,11,0,experiment,NULL,Selector,choice,Selection,APA,1779112455889,stim9.wav,9,ABA;APA
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1779112455891,stim9.wav,9,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1779112455892,stim5.wav,5,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,7,0,experiment,NULL,Selector,choice,Selection,APA,1779112458722,stim5.wav,5,ABA;APA
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1779112458725,stim5.wav,5,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1779112458727,stim6.wav,6,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,8,0,experiment,NULL,Selector,choice,Selection,APA,1779112461208,stim6.wav,6,ABA;APA
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1779112461210,stim6.wav,6,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1779112461212,stim2.wav,2,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,4,0,experiment,NULL,Selector,choice,Selection,APA,1779112464254,stim2.wav,2,ABA;APA
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1779112464256,stim2.wav,2,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1779112464257,stim7.wav,7,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,9,0,experiment,NULL,Selector,choice,Selection,APA,1779112466283,stim7.wav,7,ABA;APA
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1779112466284,stim7.wav,7,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1779112466284,stim3.wav,3,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,5,0,experiment,NULL,Selector,choice,Selection,APA,1779112468786,stim3.wav,3,ABA;APA
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1779112468788,stim3.wav,3,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1779112468790,stim8.wav,8,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,10,0,experiment,NULL,Selector,choice,Selection,APA,1779112471038,stim8.wav,8,ABA;APA
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1779112471039,stim8.wav,8,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1779112471041,stim4.wav,4,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,6,0,experiment,NULL,Selector,choice,Selection,APA,1779112473501,stim4.wav,4,ABA;APA
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1779112473503,stim4.wav,4,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1779112473505,stim1.wav,1,NULL
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,3,0,experiment,NULL,Selector,choice,Selection,APA,1779112477922,stim1.wav,1,ABA;APA
+1779112478,f8cdb5c33690c2efb8de1daeeb51eba6,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1779112477924,stim1.wav,1,NULL
+#
+# Results on Mon, 18 May 2026 14:00:13 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+# Design number was non-random = 11
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1779112761341,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1779112768165,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,2,0,demographics,NULL,PennController,2,_Trial_,Start,1779112768166,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,2,0,demographics,NULL,Selector,language,Selection,lang4,1779112769931,lang1;lang2;lang3;lang4;lang5;lang6
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,2,0,demographics,NULL,PennController,2,_Trial_,End,1779112770699,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1779112770699,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1779112774432,NULL
+# 13. filename.
+# 14. step.
+# 15. Comments.
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1779112774432,stim2.wav,2,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,4,0,experiment,NULL,Audio,stimulus,buffer,0,1779112778434,stim2.wav,2,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,4,0,experiment,NULL,Selector,choice,Selection,APA,1779112781481,stim2.wav,2,ABA;APA
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1779112781482,stim2.wav,2,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1779112781483,stim5.wav,5,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,7,0,experiment,NULL,Audio,stimulus,buffer,0,1779112784018,stim5.wav,5,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,7,0,experiment,NULL,Selector,choice,Selection,APA,1779112786031,stim5.wav,5,ABA;APA
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1779112786032,stim5.wav,5,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1779112786032,stim1.wav,1,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,3,0,experiment,NULL,Audio,stimulus,buffer,0,1779112787867,stim1.wav,1,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,3,0,experiment,NULL,Selector,choice,Selection,APA,1779112789414,stim1.wav,1,ABA;APA
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1779112789415,stim1.wav,1,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1779112789415,stim4.wav,4,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,6,0,experiment,NULL,Selector,choice,Selection,APA,1779112791948,stim4.wav,4,ABA;APA
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1779112791948,stim4.wav,4,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1779112791949,stim8.wav,8,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,10,0,experiment,NULL,Audio,stimulus,buffer,0,1779112794885,stim8.wav,8,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,10,0,experiment,NULL,Selector,choice,Selection,APA,1779112797764,stim8.wav,8,ABA;APA
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1779112797765,stim8.wav,8,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1779112797766,stim9.wav,9,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,11,0,experiment,NULL,Audio,stimulus,buffer,0,1779112800018,stim9.wav,9,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,11,0,experiment,NULL,Selector,choice,Selection,APA,1779112802148,stim9.wav,9,ABA;APA
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1779112802149,stim9.wav,9,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1779112802149,stim3.wav,3,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,5,0,experiment,NULL,Audio,stimulus,buffer,0,1779112804202,stim3.wav,3,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,5,0,experiment,NULL,Selector,choice,Selection,APA,1779112805698,stim3.wav,3,ABA;APA
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1779112805698,stim3.wav,3,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1779112805699,stim6.wav,6,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,8,0,experiment,NULL,Audio,stimulus,buffer,0,1779112808368,stim6.wav,6,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,8,0,experiment,NULL,Selector,choice,Selection,APA,1779112809415,stim6.wav,6,ABA;APA
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1779112809416,stim6.wav,6,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1779112809417,stim7.wav,7,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,9,0,experiment,NULL,Audio,stimulus,buffer,0,1779112811251,stim7.wav,7,NULL
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,9,0,experiment,NULL,Selector,choice,Selection,APA,1779112813864,stim7.wav,7,ABA;APA
+1779112813,db721e131f3b1eeabf3206ec198103c2,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1779112813865,stim7.wav,7,NULL
+#
+# Results on Tue, 19 May 2026 02:23:06 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+# Design number was non-random = 12
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1779157386,07c02e4743042912d18c972141884a47,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1779157335925,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1779157337002,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,2,0,demographics,NULL,PennController,2,_Trial_,Start,1779157337004,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,2,0,demographics,NULL,Selector,language,Selection,lang2,1779157341395,lang1;lang2;lang3;lang4;lang5;lang6
+1779157386,07c02e4743042912d18c972141884a47,PennController,2,0,demographics,NULL,PennController,2,_Trial_,End,1779157342756,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1779157342757,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1779157343965,NULL
+# 13. filename.
+# 14. step.
+# 15. Comments.
+1779157386,07c02e4743042912d18c972141884a47,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1779157343966,stim3.wav,3,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,5,0,experiment,NULL,Selector,choice,Selection,APA,1779157356079,stim3.wav,3,ABA;APA
+1779157386,07c02e4743042912d18c972141884a47,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1779157356080,stim3.wav,3,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1779157356081,stim5.wav,5,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,7,0,experiment,NULL,Audio,stimulus,buffer,0,1779157360011,stim5.wav,5,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,7,0,experiment,NULL,Selector,choice,Selection,ABA,1779157362261,stim5.wav,5,ABA;APA
+1779157386,07c02e4743042912d18c972141884a47,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1779157362263,stim5.wav,5,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1779157362264,stim4.wav,4,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,6,0,experiment,NULL,Audio,stimulus,buffer,0,1779157366362,stim4.wav,4,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,6,0,experiment,NULL,Selector,choice,Selection,APA,1779157368134,stim4.wav,4,ABA;APA
+1779157386,07c02e4743042912d18c972141884a47,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1779157368136,stim4.wav,4,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1779157368138,stim1.wav,1,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,3,0,experiment,NULL,Selector,choice,Selection,APA,1779157370388,stim1.wav,1,ABA;APA
+1779157386,07c02e4743042912d18c972141884a47,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1779157370390,stim1.wav,1,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1779157370391,stim6.wav,6,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,8,0,experiment,NULL,Selector,choice,Selection,APA,1779157374846,stim6.wav,6,ABA;APA
+1779157386,07c02e4743042912d18c972141884a47,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1779157374847,stim6.wav,6,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1779157374848,stim8.wav,8,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,10,0,experiment,NULL,Selector,choice,Selection,APA,1779157377693,stim8.wav,8,ABA;APA
+1779157386,07c02e4743042912d18c972141884a47,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1779157377695,stim8.wav,8,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1779157377696,stim7.wav,7,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,9,0,experiment,NULL,Selector,choice,Selection,APA,1779157380516,stim7.wav,7,ABA;APA
+1779157386,07c02e4743042912d18c972141884a47,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1779157380517,stim7.wav,7,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1779157380519,stim2.wav,2,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,4,0,experiment,NULL,Selector,choice,Selection,APA,1779157383046,stim2.wav,2,ABA;APA
+1779157386,07c02e4743042912d18c972141884a47,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1779157383048,stim2.wav,2,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1779157383049,stim9.wav,9,NULL
+1779157386,07c02e4743042912d18c972141884a47,PennController,11,0,experiment,NULL,Selector,choice,Selection,APA,1779157386228,stim9.wav,9,ABA;APA
+1779157386,07c02e4743042912d18c972141884a47,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1779157386229,stim9.wav,9,NULL
+#
+# Results on Tue, 19 May 2026 04:36:07 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+# Design number was non-random = 13
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1779165335125,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1779165336308,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,2,0,demographics,NULL,PennController,2,_Trial_,Start,1779165336310,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,2,0,demographics,NULL,Selector,language,Selection,lang2,1779165337659,lang1;lang2;lang3;lang4;lang5;lang6
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,2,0,demographics,NULL,PennController,2,_Trial_,End,1779165338590,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1779165338591,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1779165341531,NULL
+# 13. filename.
+# 14. step.
+# 15. Comments.
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1779165341531,stim3.wav,3,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,5,0,experiment,NULL,Audio,stimulus,buffer,0,1779165344661,stim3.wav,3,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,5,0,experiment,NULL,Selector,choice,Selection,APA,1779165346024,stim3.wav,3,ABA;APA
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1779165346026,stim3.wav,3,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1779165346027,stim5.wav,5,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,7,0,experiment,NULL,Selector,choice,Selection,APA,1779165348157,stim5.wav,5,ABA;APA
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1779165348159,stim5.wav,5,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1779165348160,stim7.wav,7,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,9,0,experiment,NULL,Selector,choice,Selection,APA,1779165351892,stim7.wav,7,ABA;APA
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1779165351894,stim7.wav,7,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1779165351895,stim6.wav,6,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,8,0,experiment,NULL,Selector,choice,Selection,APA,1779165354292,stim6.wav,6,ABA;APA
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1779165354294,stim6.wav,6,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1779165354295,stim9.wav,9,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,11,0,experiment,NULL,Selector,choice,Selection,APA,1779165356533,stim9.wav,9,ABA;APA
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1779165356534,stim9.wav,9,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1779165356536,stim8.wav,8,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,10,0,experiment,NULL,Selector,choice,Selection,APA,1779165358437,stim8.wav,8,ABA;APA
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1779165358439,stim8.wav,8,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1779165358440,stim1.wav,1,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,3,0,experiment,NULL,Audio,stimulus,buffer,0,1779165361795,stim1.wav,1,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,3,0,experiment,NULL,Selector,choice,Selection,ABA,1779165363710,stim1.wav,1,ABA;APA
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1779165363712,stim1.wav,1,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1779165363714,stim4.wav,4,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,6,0,experiment,NULL,Selector,choice,Selection,APA,1779165365642,stim4.wav,4,ABA;APA
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1779165365644,stim4.wav,4,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1779165365645,stim2.wav,2,NULL
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,4,0,experiment,NULL,Selector,choice,Selection,APA,1779165367192,stim2.wav,2,ABA;APA
+1779165367,90fd3927f965bb785f9d1bca3cdd67bb,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1779165367193,stim2.wav,2,NULL
