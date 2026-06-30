@@ -1,0 +1,301 @@
+,type,group,item,cond,correct_answer,question,sentence
+1,practice,1,201,,0,この文は、英語として文法的（ただしい）と思いますか？,This is the first example.
+2,practice,1,202,,0,この文は、英語として文法的（ただしい）と思いますか？,This is the second example.
+3,practice,1,203,,0,この文は、英語として文法的（ただしい）と思いますか？,This is the last example. 
+100,filler,1,101,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary stole a necklace yesterday morning ?
+101,filler,1,102,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary invited you to the party yesterday morning ?
+102,filler,1,103,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary went to the station yesterday morning ?
+103,filler,1,104,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary called the police yesterday morning ?
+104,filler,1,105,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary read a newspaper yesterday morning ?
+105,filler,1,106,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary cried so hard yesterday morning ?
+106,filler,1,107,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary danced to the music yesterday morning ?
+107,filler,1,108,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary drank wine yesterday morning ?
+108,filler,1,109,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary ate bananas yesterday morning ?
+109,filler,1,110,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary played baseball yesterday morning ?
+110,filler,1,111,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary left so early yesterday morning ?
+111,filler,1,112,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary sang a song yesterday morning ?
+112,filler,1,113,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being sad since this morning ?
+113,filler,1,114,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being happy since this morning ?
+114,filler,1,115,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being nice to me since this morning ?
+115,filler,1,116,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being polite since this morning ?
+116,filler,1,117,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being sick since this morning ?
+117,filler,1,118,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being ill since this morning ?
+118,filler,1,119,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being angry since this morning ?
+119,filler,1,120,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being mad since this morning ?
+120,filler,1,121,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being cooperative since this morning ?
+121,filler,1,122,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being exhausted since this morning ?
+122,filler,1,123,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being rude since this morning ?
+123,filler,1,124,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being excited since this morning ?
+124,filler,1,125,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been able to play the piano since this April ?
+125,filler,1,126,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been capable of working full-time remotely from home since this April ?
+126,filler,1,127,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been absent from classes since this April ?
+127,filler,1,128,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been accustomed to living in Tokyo since this April ?
+128,filler,1,129,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been anxious about making the presentation since this April ?
+129,filler,1,130,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been bored of doing the same old job since this April ?
+130,filler,1,131,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been ashamed of showing her mom since this April ?
+131,filler,1,132,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been critical of spending money on games since this April ?
+132,filler,1,133,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been enthusiastic about moving to Tokyo since this April ?
+133,filler,1,134,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been excited about going to Hawaii since this April ?
+134,filler,1,135,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been interested in learning Japanese since this April ?
+135,filler,1,136,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been nervous about going to a new school since this April ?
+136,filler,1,137,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been working for a company since this April ?
+137,filler,1,138,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been cooking dinner since this April ?
+138,filler,1,139,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been lying about him since this April ?
+139,filler,1,140,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been living in Tokyo since this April ?
+140,filler,1,141,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been writing a letter since this April ?
+141,filler,1,142,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been playing with her son since this April ?
+142,filler,1,143,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been wearing glasses since this April ?
+143,filler,1,144,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been complaining about her teacher since this April ?
+144,filler,1,145,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been enjoying the play since this April ?
+145,filler,1,146,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been traveling  since this April ?
+146,filler,1,147,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been behaving oddly since this April ?
+147,filler,1,148,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been making jokes since this April ?
+150,practice,2,201,,0,この文は、英語として文法的（ただしい）と思いますか？,This is the first example.  
+212,practice,2,202,,0,この文は、英語として文法的（ただしい）と思いますか？,This is the second example.  
+312,practice,2,203,,0,この文は、英語として文法的（ただしい）と思いますか？,This is the last example.   
+1003,filler,2,101,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary stole a necklace yesterday morning ?
+1013,filler,2,102,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary invited you to the party yesterday morning ?
+1023,filler,2,103,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary went to the station yesterday morning ?
+1033,filler,2,104,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary called the police yesterday morning ?
+1043,filler,2,105,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary read a newspaper yesterday morning ?
+1053,filler,2,106,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary cried so hard yesterday morning ?
+1063,filler,2,107,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary danced to the music yesterday morning ?
+1073,filler,2,108,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary drank wine yesterday morning ?
+1083,filler,2,109,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary ate bananas yesterday morning ?
+1093,filler,2,110,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary played baseball yesterday morning ?
+1103,filler,2,111,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary left so early yesterday morning ?
+1113,filler,2,112,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary sang a song yesterday morning ?
+1123,filler,2,113,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being sad since this morning ?
+1133,filler,2,114,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being happy since this morning ?
+1143,filler,2,115,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being nice to me since this morning ?
+1153,filler,2,116,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being polite since this morning ?
+1163,filler,2,117,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being sick since this morning ?
+1173,filler,2,118,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being ill since this morning ?
+1183,filler,2,119,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being angry since this morning ?
+1193,filler,2,120,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being mad since this morning ?
+1203,filler,2,121,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being cooperative since this morning ?
+1213,filler,2,122,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being exhausted since this morning ?
+1223,filler,2,123,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being rude since this morning ?
+1233,filler,2,124,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being excited since this morning ?
+1243,filler,2,125,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been able to play the piano since this April ?
+1253,filler,2,126,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been capable of working full-time remotely from home since this April ?
+1263,filler,2,127,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been absent from classes since this April ?
+1273,filler,2,128,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been accustomed to living in Tokyo since this April ?
+1283,filler,2,129,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been anxious about making the presentation since this April ?
+1293,filler,2,130,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been bored of doing the same old job since this April ?
+1303,filler,2,131,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been ashamed of showing her mom since this April ?
+1313,filler,2,132,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been critical of spending money on games since this April ?
+1323,filler,2,133,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been enthusiastic about moving to Tokyo since this April ?
+1333,filler,2,134,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been excited about going to Hawaii since this April ?
+1343,filler,2,135,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been interested in learning Japanese since this April ?
+1353,filler,2,136,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been nervous about going to a new school since this April ?
+1363,filler,2,137,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been working for a company since this April ?
+1373,filler,2,138,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been cooking dinner since this April ?
+1383,filler,2,139,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been lying about him since this April ?
+1393,filler,2,140,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been living in Tokyo since this April ?
+1403,filler,2,141,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been writing a letter since this April ?
+1413,filler,2,142,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been playing with her son since this April ?
+1423,filler,2,143,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been wearing glasses since this April ?
+1433,filler,2,144,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been complaining about her teacher since this April ?
+1443,filler,2,145,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been enjoying the play since this April ?
+1453,filler,2,146,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been traveling  since this April ?
+1463,filler,2,147,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been behaving oddly since this April ?
+1473,filler,2,148,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been making jokes since this April ?
+149,practice,3,201,,0,この文は、英語として文法的（ただしい）と思いますか？,This is the first example.  
+211,practice,3,202,,0,この文は、英語として文法的（ただしい）と思いますか？,This is the second example.  
+311,practice,3,203,,0,この文は、英語として文法的（ただしい）と思いますか？,This is the last example.   
+1002,filler,3,101,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary stole a necklace yesterday morning ?
+1012,filler,3,102,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary invited you to the party yesterday morning ?
+1022,filler,3,103,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary went to the station yesterday morning ?
+1032,filler,3,104,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary called the police yesterday morning ?
+1042,filler,3,105,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary read a newspaper yesterday morning ?
+1052,filler,3,106,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary cried so hard yesterday morning ?
+1062,filler,3,107,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary danced to the music yesterday morning ?
+1072,filler,3,108,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary drank wine yesterday morning ?
+1082,filler,3,109,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary ate bananas yesterday morning ?
+1092,filler,3,110,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary played baseball yesterday morning ?
+1102,filler,3,111,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary left so early yesterday morning ?
+1112,filler,3,112,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary sang a song yesterday morning ?
+1122,filler,3,113,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being sad since this morning ?
+1132,filler,3,114,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being happy since this morning ?
+1142,filler,3,115,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being nice to me since this morning ?
+1152,filler,3,116,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being polite since this morning ?
+1162,filler,3,117,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being sick since this morning ?
+1172,filler,3,118,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being ill since this morning ?
+1182,filler,3,119,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being angry since this morning ?
+1192,filler,3,120,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being mad since this morning ?
+1202,filler,3,121,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being cooperative since this morning ?
+1212,filler,3,122,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being exhausted since this morning ?
+1222,filler,3,123,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being rude since this morning ?
+1232,filler,3,124,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being excited since this morning ?
+1242,filler,3,125,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been able to play the piano since this April ?
+1252,filler,3,126,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been capable of working full-time remotely from home since this April ?
+1262,filler,3,127,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been absent from classes since this April ?
+1272,filler,3,128,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been accustomed to living in Tokyo since this April ?
+1282,filler,3,129,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been anxious about making the presentation since this April ?
+1292,filler,3,130,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been bored of doing the same old job since this April ?
+1302,filler,3,131,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been ashamed of showing her mom since this April ?
+1312,filler,3,132,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been critical of spending money on games since this April ?
+1322,filler,3,133,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been enthusiastic about moving to Tokyo since this April ?
+1332,filler,3,134,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been excited about going to Hawaii since this April ?
+1342,filler,3,135,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been interested in learning Japanese since this April ?
+1352,filler,3,136,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been nervous about going to a new school since this April ?
+1362,filler,3,137,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been working for a company since this April ?
+1372,filler,3,138,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been cooking dinner since this April ?
+1382,filler,3,139,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been lying about him since this April ?
+1392,filler,3,140,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been living in Tokyo since this April ?
+1402,filler,3,141,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been writing a letter since this April ?
+1412,filler,3,142,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been playing with her son since this April ?
+1422,filler,3,143,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been wearing glasses since this April ?
+1432,filler,3,144,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been complaining about her teacher since this April ?
+1442,filler,3,145,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been enjoying the play since this April ?
+1452,filler,3,146,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been traveling  since this April ?
+1462,filler,3,147,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been behaving oddly since this April ?
+1472,filler,3,148,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been making jokes since this April ?
+148,practice,4,201,,0,この文は、英語として文法的（ただしい）と思いますか？,This is the first example.  
+210,practice,4,202,,0,この文は、英語として文法的（ただしい）と思いますか？,This is the second example.  
+310,practice,4,203,,0,この文は、英語として文法的（ただしい）と思いますか？,This is the last example.   
+1001,filler,4,101,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary stole a necklace yesterday morning ?
+1011,filler,4,102,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary invited you to the party yesterday morning ?
+1021,filler,4,103,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary went to the station yesterday morning ?
+1031,filler,4,104,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary called the police yesterday morning ?
+1041,filler,4,105,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary read a newspaper yesterday morning ?
+1051,filler,4,106,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary cried so hard yesterday morning ?
+1061,filler,4,107,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary danced to the music yesterday morning ?
+1071,filler,4,108,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary drank wine yesterday morning ?
+1081,filler,4,109,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary ate bananas yesterday morning ?
+1091,filler,4,110,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary played baseball yesterday morning ?
+1101,filler,4,111,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary left so early yesterday morning ?
+1111,filler,4,112,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary sang a song yesterday morning ?
+1121,filler,4,113,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being sad since this morning ?
+1131,filler,4,114,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being happy since this morning ?
+1141,filler,4,115,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being nice to me since this morning ?
+1151,filler,4,116,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being polite since this morning ?
+1161,filler,4,117,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being sick since this morning ?
+1171,filler,4,118,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being ill since this morning ?
+1181,filler,4,119,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being angry since this morning ?
+1191,filler,4,120,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being mad since this morning ?
+1201,filler,4,121,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being cooperative since this morning ?
+1211,filler,4,122,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being exhausted since this morning ?
+1221,filler,4,123,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being rude since this morning ?
+1231,filler,4,124,,0,この文は、英語として文法的（ただしい）と思いますか？,Who wonders whether Mary has been being excited since this morning ?
+1241,filler,4,125,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been able to play the piano since this April ?
+1251,filler,4,126,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been capable of working full-time remotely from home since this April ?
+1261,filler,4,127,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been absent from classes since this April ?
+1271,filler,4,128,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been accustomed to living in Tokyo since this April ?
+1281,filler,4,129,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been anxious about making the presentation since this April ?
+1291,filler,4,130,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been bored of doing the same old job since this April ?
+1301,filler,4,131,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been ashamed of showing her mom since this April ?
+1311,filler,4,132,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been critical of spending money on games since this April ?
+1321,filler,4,133,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been enthusiastic about moving to Tokyo since this April ?
+1331,filler,4,134,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been excited about going to Hawaii since this April ?
+1341,filler,4,135,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been interested in learning Japanese since this April ?
+1351,filler,4,136,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been nervous about going to a new school since this April ?
+1361,filler,4,137,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been working for a company since this April ?
+1371,filler,4,138,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been cooking dinner since this April ?
+1381,filler,4,139,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been lying about him since this April ?
+1391,filler,4,140,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been living in Tokyo since this April ?
+1401,filler,4,141,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been writing a letter since this April ?
+1411,filler,4,142,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been playing with her son since this April ?
+1421,filler,4,143,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been wearing glasses since this April ?
+1431,filler,4,144,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been complaining about her teacher since this April ?
+1441,filler,4,145,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been enjoying the play since this April ?
+1451,filler,4,146,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been traveling  since this April ?
+1461,filler,4,147,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been behaving oddly since this April ?
+1471,filler,4,148,,0,この文は、英語として文法的（ただしい）と思いますか？,Who thinks that Mary has been making jokes since this April ?
+4,target,1,1,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary met yesterday morning ?
+5,target,2,1,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that met Mary yesterday morning ?
+6,target,3,1,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary met yesterday morning ?
+7,target,4,1,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think met Mary yesterday morning ?
+8,target,2,2,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary saw yesterday morning ?
+9,target,3,2,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that saw Mary yesterday morning ?
+10,target,4,2,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary saw yesterday morning ?
+11,target,1,2,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think saw Mary yesterday morning ?
+12,target,3,3,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary called yesterday morning ?
+13,target,4,3,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that called Mary yesterday morning ?
+14,target,1,3,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary called yesterday morning ?
+15,target,2,3,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think called Mary yesterday morning ?
+16,target,4,4,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary find yesterday morning ?
+17,target,1,4,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that find Mary yesterday morning ?
+18,target,2,4,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary find yesterday morning ?
+19,target,3,4,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think find Mary yesterday morning ?
+20,target,1,5,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary followed yesterday morning ?
+21,target,2,5,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that followed Mary yesterday morning ?
+22,target,3,5,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary followed yesterday morning ?
+23,target,4,5,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think followed Mary yesterday morning ?
+24,target,2,6,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary helped yesterday morning ?
+25,target,3,6,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that helped Mary yesterday morning ?
+26,target,4,6,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary helped yesterday morning ?
+27,target,1,6,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think helped Mary yesterday morning ?
+28,target,3,7,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary kissed yesterday morning ?
+29,target,4,7,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that kissed Mary yesterday morning ?
+30,target,1,7,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary kissed yesterday morning ?
+31,target,2,7,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think kissed Mary yesterday morning ?
+32,target,4,8,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary thanked yesterday morning ?
+33,target,1,8,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that thanked Mary yesterday morning ?
+34,target,2,8,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary thanked yesterday morning ?
+35,target,3,8,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think thanked Mary yesterday morning ?
+36,target,1,9,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary visited yesterday morning ?
+37,target,2,9,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that visited Mary yesterday morning ?
+38,target,3,9,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary visited yesterday morning ?
+39,target,4,9,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think visited Mary yesterday morning ?
+40,target,2,10,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary married yesterday morning ?
+41,target,3,10,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that married Mary yesterday morning ?
+42,target,4,10,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary married yesterday morning ?
+43,target,1,10,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think married Mary yesterday morning ?
+44,target,3,11,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary emailed yesterday morning ?
+45,target,4,11,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that emailed Mary yesterday morning ?
+46,target,1,11,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary emailed yesterday morning ?
+47,target,2,11,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think emailed Mary yesterday morning ?
+48,target,4,12,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary blamed yesterday morning ?
+49,target,1,12,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that blamed Mary yesterday morning ?
+50,target,2,12,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary blamed yesterday morning ?
+51,target,3,12,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think blamed Mary yesterday morning ?
+52,target,1,13,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary forgave yesterday morning ?
+53,target,2,13,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that forgave Mary yesterday morning ?
+54,target,3,13,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary forgave yesterday morning ?
+55,target,4,13,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think forgave Mary yesterday morning ?
+56,target,2,14,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary congratulated yesterday morning ?
+57,target,3,14,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that congratulated Mary yesterday morning ?
+58,target,4,14,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary congratulated yesterday morning ?
+59,target,1,14,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think congratulated Mary yesterday morning ?
+60,target,3,15,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary offended yesterday morning ?
+61,target,4,15,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that offended Mary yesterday morning ?
+62,target,1,15,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary offended yesterday morning ?
+63,target,2,15,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think offended Mary yesterday morning ?
+64,target,4,16,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary punished yesterday morning ?
+65,target,1,16,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that punished Mary yesterday morning ?
+66,target,2,16,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary punished yesterday morning ?
+67,target,3,16,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think punished Mary yesterday morning ?
+68,target,1,17,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary scolded yesterday morning ?
+69,target,2,17,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that scolded Mary yesterday morning ?
+70,target,3,17,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary scolded yesterday morning ?
+71,target,4,17,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think scolded Mary yesterday morning ?
+72,target,2,18,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary trusted yesterday morning ?
+73,target,3,18,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that trusted Mary yesterday morning ?
+74,target,4,18,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary trusted yesterday morning ?
+75,target,1,18,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think trusted Mary yesterday morning ?
+76,target,3,19,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary embarrassed yesterday morning ?
+77,target,4,19,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that embarrassed Mary yesterday morning ?
+78,target,1,19,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary embarrassed yesterday morning ?
+79,target,2,19,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think embarrassed Mary yesterday morning ?
+80,target,4,20,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary avoided yesterday morning ?
+81,target,1,20,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that avoided Mary yesterday morning ?
+82,target,2,20,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary avoided yesterday morning ?
+83,target,3,20,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think avoided Mary yesterday morning ?
+84,target,1,21,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary contacted yesterday morning ?
+85,target,2,21,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that contacted Mary yesterday morning ?
+86,target,3,21,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary contacted yesterday morning ?
+87,target,4,21,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think contacted Mary yesterday morning ?
+88,target,2,22,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary disappointed yesterday morning ?
+89,target,3,22,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that disappointed Mary yesterday morning ?
+90,target,4,22,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary disappointed yesterday morning ?
+91,target,1,22,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think disappointed Mary yesterday morning ?
+92,target,3,23,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary frightened yesterday morning ?
+93,target,4,23,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that frightened Mary yesterday morning ?
+94,target,1,23,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary frightened yesterday morning ?
+95,target,2,23,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think frightened Mary yesterday morning ?
+96,target,4,24,a,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that Mary rewarded yesterday morning ?
+97,target,1,24,b,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think that rewarded Mary yesterday morning ?
+98,target,2,24,c,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think Mary rewarded yesterday morning ?
+99,target,3,24,d,0,この文は、英語として文法的（ただしい）と思いますか？,Who do you think rewarded Mary yesterday morning ?
